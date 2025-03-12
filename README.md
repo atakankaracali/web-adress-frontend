@@ -18,11 +18,11 @@ npm or yarn
 
 Clone the repository:
 
-git clone https://github.com/your-repo/frontend.git
+git clone https://github.com/atakankaracali/web-adress-frontend.git
 
 # Navigate to the project directory:
 
-cd frontend
+cd web-adress-frontend
 
 # Install dependencies:
 
@@ -32,7 +32,7 @@ Running the Project
 
 # To start the development server, run:
 
-npm start  # or yarn start
+npm run start  # or yarn run start
 
 This will launch the application on http://localhost:3000/.
 
